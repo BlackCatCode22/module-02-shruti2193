@@ -20,14 +20,14 @@ Create a program that prompts the user to enter a string using Java’s Scanner 
 Store the user input in a String variable.
 Use a loop to reverse the string.
 Display the reversed string to the user.
-Tips
+### Tips
 Remember that strings in Java are indexed starting from 0.
 A loop can be used to access each character of the string from the end to the beginning.
 Test your program with different inputs to make sure it works as expected.
-Extension Ideas
+### Extension Ideas
 Modify the program to ignore spaces while reversing (e.g., "hello world" becomes "dlrowolleh").
 Enhance the program to reverse each word in the sentence individually but keep the word order (e.g., "hello world" becomes "olleh dlrow").
-Submission Guidelines
+### Submission Guidelines
 Submit your Java source code with comments explaining your logic.
 Ensure your code is neatly formatted and easy to read.
 Test your program with various inputs to ensure reliability.
